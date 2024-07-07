@@ -1,4 +1,4 @@
-# Palace of Zeus Application Manual
+# Hotel Management Application Manual
 
 ## 1. Starting the Application
 
