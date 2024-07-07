@@ -113,4 +113,4 @@
 1. **Show Reservations**: View customer reservations.
 2. Navigate using **Back to Staff menu**.
 
-This document should serve as a comprehensive guide to using the "Palace of Zeus" application. For additional help, refer to the **Help** button within the application.
+This document should serve as a comprehensive guide to using the "Hotel Management" application. For additional help, refer to the **Help** button within the application.
