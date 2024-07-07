@@ -1,0 +1,1005 @@
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Form1.resources
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\source\repos\ergasiaui\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasia allilepidrasi-20230930T142828Z-001_v2\ergasia allilepidrasi-20230930T142828Z-001\ergasia allilepidrasi\ergasiaui\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Desktop\ergasiaui_vol2\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.nfc.resources
+C:\Users\maria\Downloads\ergasiaui - Copy (1)\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Payment.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.nfc.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Payment.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Payment.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ΑΛΛΗΛΕΠΙΔΡΑΣΗ\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.service.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\maria\Desktop\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\ckars\OneDrive\Υπολογιστής\ergasia19 - Copy\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasia22\ergasia22\10\ergasiaui - Copy\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.PrivatePools.resources
+C:\Users\maria\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Rooms.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.PrivatePools.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Rooms.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\Christos\Desktop\ergasia23\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.PrivatePools.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Rooms.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Downloads\ergasia24\ergasia23\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.airconditioner.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.CARD.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.card1.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.code.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Customermain.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.door.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Horse.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Horsemain.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.MENU.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Navigation.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.pay.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.payment.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Pool.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.PrivatePools.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Reservation.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Reservationlist.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Restaurant.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Rooms.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Room.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Login.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.PrivatePool.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Properties.Resources.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Customer_Form.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Service.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.RoomService.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Staff1.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Stafflog.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.Staffmain.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.StaffRoomService.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.TEMPERATURE.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.WATERLEVEL.resources
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\ergasiaui.exe.config
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\ergasiaui.exe
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\ergasiaui.pdb
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Asio.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Core.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Midi.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Wasapi.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.WinForms.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.WinMM.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Asio.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Core.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Midi.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.Wasapi.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.WinForms.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\NAudio.WinMM.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maria\Desktop\mppl2235mppl2221\ergasiaui\obj\Debug\ergasiaui.csproj.CopyComplete
