@@ -1,0 +1,7 @@
+# Language setting for the repository
+* linguist-language=C#
+
+# C# file extensions
+*.cs linguist-language=C#
+
+
